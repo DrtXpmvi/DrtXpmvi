@@ -1,3 +1,5 @@
+![Hey there, I'm DrtXpmvi, aka Tony. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://raw.githubusercontent.com/DrtXpmvi/DrtXpmvi/refs/heads/main/github-header-banner%20(1).png)
+
 # 👋 Hi, I'm Tony — aka [DrtXpmvi](https://github.com/DrtXpmvi)
 
 🚀 Amateur programmer • Open-source developer • Web developer & designer • Indie dev • Cybersecurity & Pen Testing enthusiast  
